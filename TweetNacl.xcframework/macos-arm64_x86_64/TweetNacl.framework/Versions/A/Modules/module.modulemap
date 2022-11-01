@@ -6,6 +6,6 @@ framework module TweetNacl {
 }
 
 module TweetNacl.Swift {
-    header "TweetNacl-Swift.h"
-    requires objc
+  header "TweetNacl-Swift.h"
+  requires objc
 }

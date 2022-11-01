@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/TweetNacl-Swift.h</key>
 		<data>
-		6X7mLFHcXRGEejUyCBvRlabcqgo=
+		6DrsTc0xkvm+O7PgW2OyCI+oUno=
 		</data>
 		<key>Headers/TweetNacl.h</key>
 		<data>
@@ -14,35 +14,43 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		vq7dZXCeczsUvgGyQtwv7TwHyTI=
+		JkK5/9akJj75L71p5GSb2MWrg2E=
 		</data>
 		<key>Modules/TweetNacl.swiftmodule/Project/arm64-apple-tvos-simulator.swiftsourceinfo</key>
 		<data>
-		onN1zgZ8/eF+5n07tIHE/TnKeuI=
+		XCD0F7bqtVZVUVQej9wATsGHEmo=
 		</data>
 		<key>Modules/TweetNacl.swiftmodule/Project/x86_64-apple-tvos-simulator.swiftsourceinfo</key>
 		<data>
-		p88lkj9yapfBqlElZI67BucCuNU=
+		QJsjgGSwpGP97X0KRiFxDY9Qpfc=
+		</data>
+		<key>Modules/TweetNacl.swiftmodule/arm64-apple-tvos-simulator.abi.json</key>
+		<data>
+		FSPnLbho3G+LL9smI3XgVOqBIQ4=
 		</data>
 		<key>Modules/TweetNacl.swiftmodule/arm64-apple-tvos-simulator.swiftdoc</key>
 		<data>
-		gvaPnuQvUDF03HCU3k/T/7FBlqU=
+		oCl4uSI/cr8r4UzlK/UsanO50Ic=
 		</data>
 		<key>Modules/TweetNacl.swiftmodule/arm64-apple-tvos-simulator.swiftmodule</key>
 		<data>
-		i/wcVFWiQTwrsZAk9vEfURsHlwo=
+		rloYVp49+1neTOzr2MPst1zMB4o=
+		</data>
+		<key>Modules/TweetNacl.swiftmodule/x86_64-apple-tvos-simulator.abi.json</key>
+		<data>
+		FSPnLbho3G+LL9smI3XgVOqBIQ4=
 		</data>
 		<key>Modules/TweetNacl.swiftmodule/x86_64-apple-tvos-simulator.swiftdoc</key>
 		<data>
-		in8OMumVtyojVOdEeBak4QHEFzg=
+		w9mSLYFjW/bETMJNMY3q38fRCMg=
 		</data>
 		<key>Modules/TweetNacl.swiftmodule/x86_64-apple-tvos-simulator.swiftmodule</key>
 		<data>
-		JMS5IeYQHwUMw/HmgaRk1iV7v9w=
+		QqvmSd7w3LqMRkrTstAHwhvc27k=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		f6sRN7grB35DuRd4S070i+kWmt4=
+		ONzMNRZOSiN3y4aIRO4K9Attz9A=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -51,11 +59,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			6X7mLFHcXRGEejUyCBvRlabcqgo=
+			6DrsTc0xkvm+O7PgW2OyCI+oUno=
 			</data>
 			<key>hash2</key>
 			<data>
-			YJC1GYimFN74RY0sZHS9/rfZPAgdIOCogRrYcfaL/74=
+			D/8M0xnTir1ieY3tg+eCDkR3HKVzgKfVHx5mVepdrlo=
 			</data>
 		</dict>
 		<key>Headers/TweetNacl.h</key>
@@ -73,77 +81,99 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			onN1zgZ8/eF+5n07tIHE/TnKeuI=
+			XCD0F7bqtVZVUVQej9wATsGHEmo=
 			</data>
 			<key>hash2</key>
 			<data>
-			yR84W5Sg6HZpkeF4HYFksXJ3HaYm85UKrdp4wijkwEE=
+			ADYAJ9fPYg621+KVF46/g/jjHfllu9UaZp5ERuNZHxE=
 			</data>
 		</dict>
 		<key>Modules/TweetNacl.swiftmodule/Project/x86_64-apple-tvos-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			p88lkj9yapfBqlElZI67BucCuNU=
+			QJsjgGSwpGP97X0KRiFxDY9Qpfc=
 			</data>
 			<key>hash2</key>
 			<data>
-			pfsdHxVb8VJ0yNW8LXa5G3QEtZ66vuIn5BabePvplQc=
+			ZSXzhSO5GAX2GguKaf5mO06Nao4NnABAmHdS/nUWlxE=
+			</data>
+		</dict>
+		<key>Modules/TweetNacl.swiftmodule/arm64-apple-tvos-simulator.abi.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			FSPnLbho3G+LL9smI3XgVOqBIQ4=
+			</data>
+			<key>hash2</key>
+			<data>
+			KnRdWE4y6t4QM5zi5JDptPdHFgJy1Tku+7GLkZS2aNM=
 			</data>
 		</dict>
 		<key>Modules/TweetNacl.swiftmodule/arm64-apple-tvos-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			gvaPnuQvUDF03HCU3k/T/7FBlqU=
+			oCl4uSI/cr8r4UzlK/UsanO50Ic=
 			</data>
 			<key>hash2</key>
 			<data>
-			bZrLD4rfHJtNipHWsT6t2Rjudcf8ieoHe1IaJHJCO5w=
+			5P/7jFhxVGyffLrqd9YqMof170HMWLTLA5z7gVf2kZE=
 			</data>
 		</dict>
 		<key>Modules/TweetNacl.swiftmodule/arm64-apple-tvos-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			i/wcVFWiQTwrsZAk9vEfURsHlwo=
+			rloYVp49+1neTOzr2MPst1zMB4o=
 			</data>
 			<key>hash2</key>
 			<data>
-			UDzR3nR0zQKzfHgkk+GfGmKl7gRszzfRflVmMoXAzM0=
+			17QJEReW928/CqOad29HnMvhqtdB2C2wkbVFCYcWTOM=
+			</data>
+		</dict>
+		<key>Modules/TweetNacl.swiftmodule/x86_64-apple-tvos-simulator.abi.json</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			FSPnLbho3G+LL9smI3XgVOqBIQ4=
+			</data>
+			<key>hash2</key>
+			<data>
+			KnRdWE4y6t4QM5zi5JDptPdHFgJy1Tku+7GLkZS2aNM=
 			</data>
 		</dict>
 		<key>Modules/TweetNacl.swiftmodule/x86_64-apple-tvos-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			in8OMumVtyojVOdEeBak4QHEFzg=
+			w9mSLYFjW/bETMJNMY3q38fRCMg=
 			</data>
 			<key>hash2</key>
 			<data>
-			6Qs2Zp2eN5KV/sJ05i/NiMb9hBGtmQQWBMvEOcrLSTs=
+			NyplG9I6t8nM1FXNm9A6NZsNbvWPPHdCycgofXIDu9Q=
 			</data>
 		</dict>
 		<key>Modules/TweetNacl.swiftmodule/x86_64-apple-tvos-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			JMS5IeYQHwUMw/HmgaRk1iV7v9w=
+			QqvmSd7w3LqMRkrTstAHwhvc27k=
 			</data>
 			<key>hash2</key>
 			<data>
-			jxwLWx5VVAWjjKUbo6xHyjIdhoElNpJwhCRPyZIETPs=
+			jl2GIW83pgB1AahHnsBeobVahVOoYEJdyivGQW6OcbQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			f6sRN7grB35DuRd4S070i+kWmt4=
+			ONzMNRZOSiN3y4aIRO4K9Attz9A=
 			</data>
 			<key>hash2</key>
 			<data>
-			cz+Y+BrbOg4agcseaqxHD8FrH2KyTNMgRRJRLFlRtMg=
+			lWx/snd3zpfY5bwK1pASccxH4+6+ymCPvLhy35cEH1Q=
 			</data>
 		</dict>
 	</dict>
