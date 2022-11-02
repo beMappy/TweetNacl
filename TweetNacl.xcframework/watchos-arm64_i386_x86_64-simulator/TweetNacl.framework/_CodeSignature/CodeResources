@@ -18,51 +18,75 @@
 		</data>
 		<key>Modules/TweetNacl.swiftmodule/Project/arm64-apple-watchos-simulator.swiftsourceinfo</key>
 		<data>
-		kt+cgGYu1jp5Xx9MCOMe030jRGY=
+		6xxK6vrLPSZyjQn7gpp3ZBvkhds=
 		</data>
 		<key>Modules/TweetNacl.swiftmodule/Project/i386-apple-watchos-simulator.swiftsourceinfo</key>
 		<data>
-		ATK7ENCotkjZH5Kd5ihpRBiEtrM=
+		+jT+gvDOWyDzO6+baE1ZKHCSn1g=
 		</data>
 		<key>Modules/TweetNacl.swiftmodule/Project/x86_64-apple-watchos-simulator.swiftsourceinfo</key>
 		<data>
-		UVCqXnPB/J+TRdpaXxjJ5bRxGaI=
+		wt7jPWc6xo6mv5qRnAnc/MGAJuY=
 		</data>
 		<key>Modules/TweetNacl.swiftmodule/arm64-apple-watchos-simulator.abi.json</key>
 		<data>
-		FSPnLbho3G+LL9smI3XgVOqBIQ4=
+		wjIRDp6O8cy19s035yKrAm/v7M4=
+		</data>
+		<key>Modules/TweetNacl.swiftmodule/arm64-apple-watchos-simulator.private.swiftinterface</key>
+		<data>
+		HVQqTM7wei3McnfJjPkmspzCq+I=
 		</data>
 		<key>Modules/TweetNacl.swiftmodule/arm64-apple-watchos-simulator.swiftdoc</key>
 		<data>
 		+N3jMmfzyGbYmUOLtL1jTHzLuF4=
 		</data>
+		<key>Modules/TweetNacl.swiftmodule/arm64-apple-watchos-simulator.swiftinterface</key>
+		<data>
+		HVQqTM7wei3McnfJjPkmspzCq+I=
+		</data>
 		<key>Modules/TweetNacl.swiftmodule/arm64-apple-watchos-simulator.swiftmodule</key>
 		<data>
-		M/GbYxR1LiV3O0ChV/HGwga8aqs=
+		HLJ+kH6OshnHvKFh6VZnBuzSF8o=
 		</data>
 		<key>Modules/TweetNacl.swiftmodule/i386-apple-watchos-simulator.abi.json</key>
 		<data>
-		FSPnLbho3G+LL9smI3XgVOqBIQ4=
+		wjIRDp6O8cy19s035yKrAm/v7M4=
+		</data>
+		<key>Modules/TweetNacl.swiftmodule/i386-apple-watchos-simulator.private.swiftinterface</key>
+		<data>
+		72QIHDbEqkCw6YsqD1CW46l9rIU=
 		</data>
 		<key>Modules/TweetNacl.swiftmodule/i386-apple-watchos-simulator.swiftdoc</key>
 		<data>
 		h+QP40DVA6WQU5qyWfThuYgcLgM=
 		</data>
+		<key>Modules/TweetNacl.swiftmodule/i386-apple-watchos-simulator.swiftinterface</key>
+		<data>
+		72QIHDbEqkCw6YsqD1CW46l9rIU=
+		</data>
 		<key>Modules/TweetNacl.swiftmodule/i386-apple-watchos-simulator.swiftmodule</key>
 		<data>
-		ykP8Hnb2FoX347rBjazfeML5T6Q=
+		w1ug1aqZhd/qskLy+7BVZXiCV+Q=
 		</data>
 		<key>Modules/TweetNacl.swiftmodule/x86_64-apple-watchos-simulator.abi.json</key>
 		<data>
-		FSPnLbho3G+LL9smI3XgVOqBIQ4=
+		wjIRDp6O8cy19s035yKrAm/v7M4=
+		</data>
+		<key>Modules/TweetNacl.swiftmodule/x86_64-apple-watchos-simulator.private.swiftinterface</key>
+		<data>
+		gB6Zb+LQ9RA1c75OHoa0SzQCzPk=
 		</data>
 		<key>Modules/TweetNacl.swiftmodule/x86_64-apple-watchos-simulator.swiftdoc</key>
 		<data>
 		zwY6sdRwCCVXXycw3OLaDwXL+O0=
 		</data>
+		<key>Modules/TweetNacl.swiftmodule/x86_64-apple-watchos-simulator.swiftinterface</key>
+		<data>
+		gB6Zb+LQ9RA1c75OHoa0SzQCzPk=
+		</data>
 		<key>Modules/TweetNacl.swiftmodule/x86_64-apple-watchos-simulator.swiftmodule</key>
 		<data>
-		P3EemYNCx7iZIRwTmCcy3yrYPok=
+		5q/6/o9Z1rTARSkpwqwaetsiznM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -97,44 +121,55 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			kt+cgGYu1jp5Xx9MCOMe030jRGY=
+			6xxK6vrLPSZyjQn7gpp3ZBvkhds=
 			</data>
 			<key>hash2</key>
 			<data>
-			T6eHnGjX6UnwzR7cqQ7Jap6Nx6lfStcaLXQPXJzys6U=
+			m8H/HDUQjQhHOGZe/qWpOkSq9UelpbPaDBYbVLXr49s=
 			</data>
 		</dict>
 		<key>Modules/TweetNacl.swiftmodule/Project/i386-apple-watchos-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ATK7ENCotkjZH5Kd5ihpRBiEtrM=
+			+jT+gvDOWyDzO6+baE1ZKHCSn1g=
 			</data>
 			<key>hash2</key>
 			<data>
-			RFnBy7tz6Xo76mysalKgWRsGxWdljg1d7jvLc0iXY+A=
+			P28q4tKBgM0M+ij0Zhn4h22groEz8Q4lOoXU52UxSQU=
 			</data>
 		</dict>
 		<key>Modules/TweetNacl.swiftmodule/Project/x86_64-apple-watchos-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			UVCqXnPB/J+TRdpaXxjJ5bRxGaI=
+			wt7jPWc6xo6mv5qRnAnc/MGAJuY=
 			</data>
 			<key>hash2</key>
 			<data>
-			DmUTRvhFMJ8+lUZ3Q3dzHEcFIdVWFvBMlrQeqiLm8yY=
+			lbR6+3g/NP5L06o3W5hn2I+ENNQFgjPmxKx1MKzb5yE=
 			</data>
 		</dict>
 		<key>Modules/TweetNacl.swiftmodule/arm64-apple-watchos-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			FSPnLbho3G+LL9smI3XgVOqBIQ4=
+			wjIRDp6O8cy19s035yKrAm/v7M4=
 			</data>
 			<key>hash2</key>
 			<data>
-			KnRdWE4y6t4QM5zi5JDptPdHFgJy1Tku+7GLkZS2aNM=
+			XahKifCcfSWed4B/jYoZFCFPmyBN6hhMlAMEZSVJJ5Y=
+			</data>
+		</dict>
+		<key>Modules/TweetNacl.swiftmodule/arm64-apple-watchos-simulator.private.swiftinterface</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			HVQqTM7wei3McnfJjPkmspzCq+I=
+			</data>
+			<key>hash2</key>
+			<data>
+			yjddXJ4CgYqt0qAqAhS8cIF0Fy5O3DQtVCvC3ngWp8U=
 			</data>
 		</dict>
 		<key>Modules/TweetNacl.swiftmodule/arm64-apple-watchos-simulator.swiftdoc</key>
@@ -148,26 +183,48 @@
 			Qjw/rqmKUWln5XgB3UmHqvQBq+GKEJOQ7uF0PNiuxzI=
 			</data>
 		</dict>
+		<key>Modules/TweetNacl.swiftmodule/arm64-apple-watchos-simulator.swiftinterface</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			HVQqTM7wei3McnfJjPkmspzCq+I=
+			</data>
+			<key>hash2</key>
+			<data>
+			yjddXJ4CgYqt0qAqAhS8cIF0Fy5O3DQtVCvC3ngWp8U=
+			</data>
+		</dict>
 		<key>Modules/TweetNacl.swiftmodule/arm64-apple-watchos-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			M/GbYxR1LiV3O0ChV/HGwga8aqs=
+			HLJ+kH6OshnHvKFh6VZnBuzSF8o=
 			</data>
 			<key>hash2</key>
 			<data>
-			OGwKDTJXjRUxkmmSKAl1oKnI2U8LJ2Bn46VyzfZLRwU=
+			2lGs+uZ0g5TLuOL9X+gSVSTwOKUr1AWWCir0CIy0EqM=
 			</data>
 		</dict>
 		<key>Modules/TweetNacl.swiftmodule/i386-apple-watchos-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			FSPnLbho3G+LL9smI3XgVOqBIQ4=
+			wjIRDp6O8cy19s035yKrAm/v7M4=
 			</data>
 			<key>hash2</key>
 			<data>
-			KnRdWE4y6t4QM5zi5JDptPdHFgJy1Tku+7GLkZS2aNM=
+			XahKifCcfSWed4B/jYoZFCFPmyBN6hhMlAMEZSVJJ5Y=
+			</data>
+		</dict>
+		<key>Modules/TweetNacl.swiftmodule/i386-apple-watchos-simulator.private.swiftinterface</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			72QIHDbEqkCw6YsqD1CW46l9rIU=
+			</data>
+			<key>hash2</key>
+			<data>
+			yOK27sPuW1vK5zLqoCk/ueNmpgSfatHT8M/40hrZJTg=
 			</data>
 		</dict>
 		<key>Modules/TweetNacl.swiftmodule/i386-apple-watchos-simulator.swiftdoc</key>
@@ -181,26 +238,48 @@
 			eZMBedhs/sfwJ97smuANZ6XiE3oCNG1z9+eJ+Yc2m8w=
 			</data>
 		</dict>
+		<key>Modules/TweetNacl.swiftmodule/i386-apple-watchos-simulator.swiftinterface</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			72QIHDbEqkCw6YsqD1CW46l9rIU=
+			</data>
+			<key>hash2</key>
+			<data>
+			yOK27sPuW1vK5zLqoCk/ueNmpgSfatHT8M/40hrZJTg=
+			</data>
+		</dict>
 		<key>Modules/TweetNacl.swiftmodule/i386-apple-watchos-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ykP8Hnb2FoX347rBjazfeML5T6Q=
+			w1ug1aqZhd/qskLy+7BVZXiCV+Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			owIZDAcUh5E8aIs4rz1rCAKsC/tIapgRUrcQh1n+H+I=
+			uR4hyqERBgCjQ1akCkPKABoIkaQApgbsOhI1xbTC0UE=
 			</data>
 		</dict>
 		<key>Modules/TweetNacl.swiftmodule/x86_64-apple-watchos-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			FSPnLbho3G+LL9smI3XgVOqBIQ4=
+			wjIRDp6O8cy19s035yKrAm/v7M4=
 			</data>
 			<key>hash2</key>
 			<data>
-			KnRdWE4y6t4QM5zi5JDptPdHFgJy1Tku+7GLkZS2aNM=
+			XahKifCcfSWed4B/jYoZFCFPmyBN6hhMlAMEZSVJJ5Y=
+			</data>
+		</dict>
+		<key>Modules/TweetNacl.swiftmodule/x86_64-apple-watchos-simulator.private.swiftinterface</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			gB6Zb+LQ9RA1c75OHoa0SzQCzPk=
+			</data>
+			<key>hash2</key>
+			<data>
+			taON3gmlrXRxp3Oprt0a6tmYhgyceIYyxBiI1JeeBcM=
 			</data>
 		</dict>
 		<key>Modules/TweetNacl.swiftmodule/x86_64-apple-watchos-simulator.swiftdoc</key>
@@ -214,15 +293,26 @@
 			X5kXhAsm4jQF15WXdF5Hez3uMkiLZlIhG/qko2dDQnw=
 			</data>
 		</dict>
+		<key>Modules/TweetNacl.swiftmodule/x86_64-apple-watchos-simulator.swiftinterface</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			gB6Zb+LQ9RA1c75OHoa0SzQCzPk=
+			</data>
+			<key>hash2</key>
+			<data>
+			taON3gmlrXRxp3Oprt0a6tmYhgyceIYyxBiI1JeeBcM=
+			</data>
+		</dict>
 		<key>Modules/TweetNacl.swiftmodule/x86_64-apple-watchos-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			P3EemYNCx7iZIRwTmCcy3yrYPok=
+			5q/6/o9Z1rTARSkpwqwaetsiznM=
 			</data>
 			<key>hash2</key>
 			<data>
-			FDlmSAI9YzrdO1KF3H1aoA+HopqSEm1KG5Za/hkRc+w=
+			hU9DFva/3AlwlOcTcfYPAKNlu+iuRdJQMCYJjucbrFE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
