@@ -10,7 +10,7 @@
 		</data>
 		<key>Headers/TweetNacl.h</key>
 		<data>
-		7nrwkQJpqZESY7+Ji2JD9wNHzDI=
+		7XdhXtpGT6Odjl8N2+5CI/oOvBk=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -18,15 +18,15 @@
 		</data>
 		<key>Modules/TweetNacl.swiftmodule/Project/arm64-apple-tvos-simulator.swiftsourceinfo</key>
 		<data>
-		sPATEJRAS9WU9kUFP0qHQ4pCSos=
+		Yhtg45noof4MIQJl3s0zoJ6bg54=
 		</data>
 		<key>Modules/TweetNacl.swiftmodule/Project/x86_64-apple-tvos-simulator.swiftsourceinfo</key>
 		<data>
-		Lifg6ujC+ctHa14+7m0JzPbHXhE=
+		CUDKOHKK9U+ip9DNykPsd5SVhNQ=
 		</data>
 		<key>Modules/TweetNacl.swiftmodule/arm64-apple-tvos-simulator.abi.json</key>
 		<data>
-		wjIRDp6O8cy19s035yKrAm/v7M4=
+		IU46kvwAXc5oVouHRoFfp5QhE94=
 		</data>
 		<key>Modules/TweetNacl.swiftmodule/arm64-apple-tvos-simulator.private.swiftinterface</key>
 		<data>
@@ -42,11 +42,11 @@
 		</data>
 		<key>Modules/TweetNacl.swiftmodule/arm64-apple-tvos-simulator.swiftmodule</key>
 		<data>
-		AMx0i0uN+LQx5K3+H3P7RcCk/Dc=
+		Rznvq13sxRULYjroMAFYFboNmY8=
 		</data>
 		<key>Modules/TweetNacl.swiftmodule/x86_64-apple-tvos-simulator.abi.json</key>
 		<data>
-		wjIRDp6O8cy19s035yKrAm/v7M4=
+		IU46kvwAXc5oVouHRoFfp5QhE94=
 		</data>
 		<key>Modules/TweetNacl.swiftmodule/x86_64-apple-tvos-simulator.private.swiftinterface</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Modules/TweetNacl.swiftmodule/x86_64-apple-tvos-simulator.swiftmodule</key>
 		<data>
-		RxyXrrUWfKg63X2CNjLSJqWsUwU=
+		mcuf91rLXgoL9dl8Uuf774naoW4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -86,44 +86,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7nrwkQJpqZESY7+Ji2JD9wNHzDI=
+			7XdhXtpGT6Odjl8N2+5CI/oOvBk=
 			</data>
 			<key>hash2</key>
 			<data>
-			U1Hd+MxLn4O3g8hNKYeJw68muBOalqxMFZDAZGnZ43Y=
+			FkhJn+SAWlFe4o8PJ1TEnp7wUUkacUi7d2Y96rXMO+U=
 			</data>
 		</dict>
 		<key>Modules/TweetNacl.swiftmodule/Project/arm64-apple-tvos-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			sPATEJRAS9WU9kUFP0qHQ4pCSos=
+			Yhtg45noof4MIQJl3s0zoJ6bg54=
 			</data>
 			<key>hash2</key>
 			<data>
-			4I3ahf1Hj5LWzibfOIIoDrowq1ODSoU/Y1WOAdM+Mx8=
+			wx81ePylWZ53fqia5UBjSDhzo4D3m0y1OTkX58ckk5M=
 			</data>
 		</dict>
 		<key>Modules/TweetNacl.swiftmodule/Project/x86_64-apple-tvos-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Lifg6ujC+ctHa14+7m0JzPbHXhE=
+			CUDKOHKK9U+ip9DNykPsd5SVhNQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			5jK8n4wmABFIlx8F8S4dXWlw73XoVstFvMW9qFghPc4=
+			ULySZP/pmhRRr7rfv+oYsA+sXESF0xK2vLhOyDqPVzM=
 			</data>
 		</dict>
 		<key>Modules/TweetNacl.swiftmodule/arm64-apple-tvos-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			wjIRDp6O8cy19s035yKrAm/v7M4=
+			IU46kvwAXc5oVouHRoFfp5QhE94=
 			</data>
 			<key>hash2</key>
 			<data>
-			XahKifCcfSWed4B/jYoZFCFPmyBN6hhMlAMEZSVJJ5Y=
+			sAHFjBttomwwN8lg5N5+FGxZlOh9pKHB/zKUtg3ILNs=
 			</data>
 		</dict>
 		<key>Modules/TweetNacl.swiftmodule/arm64-apple-tvos-simulator.private.swiftinterface</key>
@@ -163,22 +163,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			AMx0i0uN+LQx5K3+H3P7RcCk/Dc=
+			Rznvq13sxRULYjroMAFYFboNmY8=
 			</data>
 			<key>hash2</key>
 			<data>
-			oxJW5orla1rvm1n+cVV7Pj3LQRAou+t22EFEQDttljk=
+			bk3G/4sS1aQTgvSDT78+joW1usAIgGKoRyVyxXMXH3s=
 			</data>
 		</dict>
 		<key>Modules/TweetNacl.swiftmodule/x86_64-apple-tvos-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			wjIRDp6O8cy19s035yKrAm/v7M4=
+			IU46kvwAXc5oVouHRoFfp5QhE94=
 			</data>
 			<key>hash2</key>
 			<data>
-			XahKifCcfSWed4B/jYoZFCFPmyBN6hhMlAMEZSVJJ5Y=
+			sAHFjBttomwwN8lg5N5+FGxZlOh9pKHB/zKUtg3ILNs=
 			</data>
 		</dict>
 		<key>Modules/TweetNacl.swiftmodule/x86_64-apple-tvos-simulator.private.swiftinterface</key>
@@ -218,11 +218,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			RxyXrrUWfKg63X2CNjLSJqWsUwU=
+			mcuf91rLXgoL9dl8Uuf774naoW4=
 			</data>
 			<key>hash2</key>
 			<data>
-			ynzG3kQtD5M6v0ctkLxg1pBxIXoUeB1F77iMsKrYSTM=
+			gaCzL+ilNPi2LwCD8S4tAO95/Xq1XC4hXCt31mFXXKg=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

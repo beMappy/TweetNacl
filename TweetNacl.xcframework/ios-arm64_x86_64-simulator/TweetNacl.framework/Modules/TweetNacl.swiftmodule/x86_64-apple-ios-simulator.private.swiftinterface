@@ -5,7 +5,6 @@
 import CTweetNacl
 import Foundation
 import Swift
-@_exported import TweetNacl
 import _Concurrency
 import _StringProcessing
 public struct NaclUtil {
