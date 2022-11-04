@@ -9,6 +9,5 @@
 #ifndef TweetNacl_h
 #define TweetNacl_h
 
-@import CTweetNacl;
 
 #endif /* TweetNacl_h */
