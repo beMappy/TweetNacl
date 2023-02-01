@@ -6,67 +6,67 @@
 	<dict>
 		<key>Headers/TweetNacl-Swift.h</key>
 		<data>
-		6DrsTc0xkvm+O7PgW2OyCI+oUno=
+		Hz1sLHXSNeIyUvfyBtBr5yN4I9I=
 		</data>
-		<key>Headers/TweetNacl.h</key>
+		<key>Headers/ctweetnacl.h</key>
 		<data>
-		7nrwkQJpqZESY7+Ji2JD9wNHzDI=
+		0Xsqlr6GLpwpw2E25/QRmNdeW58=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Mhmd6hyRI5HDGRL2Q0ehCQ1V3ko=
+		HnM1pUBtWNAiD9VhKuEhTW2Hq1Q=
 		</data>
 		<key>Modules/TweetNacl.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		ly+CTX2Zkd40XmbW67MZuGilODE=
+		AU4DD3TsV5oUwjtbGdSaGzGZmZg=
 		</data>
 		<key>Modules/TweetNacl.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		+hZU+uNXycT1PMgL+ynbTa1DJXU=
+		hR2nbHaA3WkXCN8cZ/N4B/hBz7g=
 		</data>
 		<key>Modules/TweetNacl.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		A+M2UzmJy+uv2FrTr1wKajIUvAI=
+		IU46kvwAXc5oVouHRoFfp5QhE94=
 		</data>
 		<key>Modules/TweetNacl.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		xItKrVteqRd1JacpYreefA2YbgM=
+		JSLxZhA9Gmo7B9ZRRAY6CLBYVhk=
 		</data>
 		<key>Modules/TweetNacl.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		VZRIUhWDz7f/zWR4RDzJ5qczJSA=
+		7dbo264U9WdvMcgdaZe2jo6Ttco=
 		</data>
 		<key>Modules/TweetNacl.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		xItKrVteqRd1JacpYreefA2YbgM=
+		JSLxZhA9Gmo7B9ZRRAY6CLBYVhk=
 		</data>
 		<key>Modules/TweetNacl.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		UKZy7Fta3lfjHdhCOaIX8Pkxr+A=
+		4YZddnEHg8h44WsKiYhLqkbPZ2o=
 		</data>
 		<key>Modules/TweetNacl.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		A+M2UzmJy+uv2FrTr1wKajIUvAI=
+		IU46kvwAXc5oVouHRoFfp5QhE94=
 		</data>
 		<key>Modules/TweetNacl.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		1B7yrC76AMDF1R8x8P3ljNwTvWc=
+		yj0chiueS3IxnKOE0a3zUC+k/fE=
 		</data>
 		<key>Modules/TweetNacl.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		SoMP0hGxJmMXQSXoaHOso6WwGLs=
+		YWKj5rCGkTI8yk9mpiEFaPOi/2w=
 		</data>
 		<key>Modules/TweetNacl.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		1B7yrC76AMDF1R8x8P3ljNwTvWc=
+		yj0chiueS3IxnKOE0a3zUC+k/fE=
 		</data>
 		<key>Modules/TweetNacl.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		D8sxAQ4fVrguXUvKHqj0QzU5TMQ=
+		xp+ucxyZeRB0VSbCoU7it6ougAk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		ONzMNRZOSiN3y4aIRO4K9Attz9A=
+		0EpQ61Y1izyuz5QVUH9n5c0HVfw=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -75,165 +75,165 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			6DrsTc0xkvm+O7PgW2OyCI+oUno=
+			Hz1sLHXSNeIyUvfyBtBr5yN4I9I=
 			</data>
 			<key>hash2</key>
 			<data>
-			D/8M0xnTir1ieY3tg+eCDkR3HKVzgKfVHx5mVepdrlo=
+			7LfbfvVGiOP76Eve8rH4vjVBJAf4CBoiDzPBh8TKQOU=
 			</data>
 		</dict>
-		<key>Headers/TweetNacl.h</key>
+		<key>Headers/ctweetnacl.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			7nrwkQJpqZESY7+Ji2JD9wNHzDI=
+			0Xsqlr6GLpwpw2E25/QRmNdeW58=
 			</data>
 			<key>hash2</key>
 			<data>
-			U1Hd+MxLn4O3g8hNKYeJw68muBOalqxMFZDAZGnZ43Y=
+			n6uChM+4Ijpn9uChvSM6asoQevgundh8zeZz2LVSLkg=
 			</data>
 		</dict>
 		<key>Modules/TweetNacl.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ly+CTX2Zkd40XmbW67MZuGilODE=
+			AU4DD3TsV5oUwjtbGdSaGzGZmZg=
 			</data>
 			<key>hash2</key>
 			<data>
-			e/Rmyml6rU3nnzNX3x4TSH2sXe2WCWmVHAkHxa83mWs=
+			Gfyoq/psUmXkUUpFXxy7tl2gMfvZ3EbmO3JnKMTdSxk=
 			</data>
 		</dict>
 		<key>Modules/TweetNacl.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			+hZU+uNXycT1PMgL+ynbTa1DJXU=
+			hR2nbHaA3WkXCN8cZ/N4B/hBz7g=
 			</data>
 			<key>hash2</key>
 			<data>
-			o4x5cf9tqto6EpbnHrTyo+Pf7iPE4YscqPtJ1B2tFcA=
+			q1BRkGcC7iSz4xh3LJ497HtO7atoT+J3teiX82dFHjA=
 			</data>
 		</dict>
 		<key>Modules/TweetNacl.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			A+M2UzmJy+uv2FrTr1wKajIUvAI=
+			IU46kvwAXc5oVouHRoFfp5QhE94=
 			</data>
 			<key>hash2</key>
 			<data>
-			sM022DcB74G7LJzt9y4wq083hCQzHc2zsz4MkCCRddk=
+			sAHFjBttomwwN8lg5N5+FGxZlOh9pKHB/zKUtg3ILNs=
 			</data>
 		</dict>
 		<key>Modules/TweetNacl.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			xItKrVteqRd1JacpYreefA2YbgM=
+			JSLxZhA9Gmo7B9ZRRAY6CLBYVhk=
 			</data>
 			<key>hash2</key>
 			<data>
-			i13FSnlNcBd+y6dERQmZ0wkQxlTAs2/dAEoCQKdSryk=
+			ihBILApWFb+nSLnQYk9dwgd5MMP5vs+FmKa3VLCVeZY=
 			</data>
 		</dict>
 		<key>Modules/TweetNacl.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			VZRIUhWDz7f/zWR4RDzJ5qczJSA=
+			7dbo264U9WdvMcgdaZe2jo6Ttco=
 			</data>
 			<key>hash2</key>
 			<data>
-			QXBUPGRtCjGtYuALd46LlDAz8MOjhj8rOfXEiqrSg1g=
+			CFp0ouu+FCxE2Bq0TF6VX0Ht2kkdibAfHAV7048doKw=
 			</data>
 		</dict>
 		<key>Modules/TweetNacl.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			xItKrVteqRd1JacpYreefA2YbgM=
+			JSLxZhA9Gmo7B9ZRRAY6CLBYVhk=
 			</data>
 			<key>hash2</key>
 			<data>
-			i13FSnlNcBd+y6dERQmZ0wkQxlTAs2/dAEoCQKdSryk=
+			ihBILApWFb+nSLnQYk9dwgd5MMP5vs+FmKa3VLCVeZY=
 			</data>
 		</dict>
 		<key>Modules/TweetNacl.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			UKZy7Fta3lfjHdhCOaIX8Pkxr+A=
+			4YZddnEHg8h44WsKiYhLqkbPZ2o=
 			</data>
 			<key>hash2</key>
 			<data>
-			IxpbdZN7qpgVwHTUJg9LPr4zNaOefM1lqPQ4kBxsj2s=
+			6EcgM/Ou2AdD19CO9tr/dkLanbCCfby6Ofarz8W4r+g=
 			</data>
 		</dict>
 		<key>Modules/TweetNacl.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			A+M2UzmJy+uv2FrTr1wKajIUvAI=
+			IU46kvwAXc5oVouHRoFfp5QhE94=
 			</data>
 			<key>hash2</key>
 			<data>
-			sM022DcB74G7LJzt9y4wq083hCQzHc2zsz4MkCCRddk=
+			sAHFjBttomwwN8lg5N5+FGxZlOh9pKHB/zKUtg3ILNs=
 			</data>
 		</dict>
 		<key>Modules/TweetNacl.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			1B7yrC76AMDF1R8x8P3ljNwTvWc=
+			yj0chiueS3IxnKOE0a3zUC+k/fE=
 			</data>
 			<key>hash2</key>
 			<data>
-			fmZh1mXGIh8X+fJm2Cp6vEV+m4ATpokuiUitWwE0qa0=
+			eP34K6D1NISDoN2UJBXsE2b3ap9rSUAUdIfjQIPpw0o=
 			</data>
 		</dict>
 		<key>Modules/TweetNacl.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			SoMP0hGxJmMXQSXoaHOso6WwGLs=
+			YWKj5rCGkTI8yk9mpiEFaPOi/2w=
 			</data>
 			<key>hash2</key>
 			<data>
-			7/qZQGr/2w4fjHu+QbxEPypkSCj7GKz1SiJPhHRrWco=
+			4V9Y6HdsVHnRcFWD45E+FfdsgrAo8b5VxLH7Usv9FpM=
 			</data>
 		</dict>
 		<key>Modules/TweetNacl.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			1B7yrC76AMDF1R8x8P3ljNwTvWc=
+			yj0chiueS3IxnKOE0a3zUC+k/fE=
 			</data>
 			<key>hash2</key>
 			<data>
-			fmZh1mXGIh8X+fJm2Cp6vEV+m4ATpokuiUitWwE0qa0=
+			eP34K6D1NISDoN2UJBXsE2b3ap9rSUAUdIfjQIPpw0o=
 			</data>
 		</dict>
 		<key>Modules/TweetNacl.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			D8sxAQ4fVrguXUvKHqj0QzU5TMQ=
+			xp+ucxyZeRB0VSbCoU7it6ougAk=
 			</data>
 			<key>hash2</key>
 			<data>
-			gdGmN/EVxunCk0IsoG9mq8H2yV5Udk+7QspPlQjvZyw=
+			CGRf+P4bEKtJETESn9pY8XrIqm5DWM9HMuzbgjVPHhg=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ONzMNRZOSiN3y4aIRO4K9Attz9A=
+			0EpQ61Y1izyuz5QVUH9n5c0HVfw=
 			</data>
 			<key>hash2</key>
 			<data>
-			lWx/snd3zpfY5bwK1pASccxH4+6+ymCPvLhy35cEH1Q=
+			KpZNyCMO4+u+ri8hFlCElyA9TxX+pWpUfFADGGHpvxM=
 			</data>
 		</dict>
 	</dict>

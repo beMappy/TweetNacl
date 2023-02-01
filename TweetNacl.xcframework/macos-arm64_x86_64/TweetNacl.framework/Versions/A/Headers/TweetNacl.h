@@ -9,5 +9,4 @@
 #ifndef TweetNacl_h
 #define TweetNacl_h
 
-
 #endif /* TweetNacl_h */
