@@ -19,7 +19,11 @@
         "name": "CTweetNacl",
         "printedName": "CTweetNacl",
         "declKind": "Import",
-        "moduleName": "TweetNacl"
+        "moduleName": "TweetNacl",
+        "declAttributes": [
+          "ImplementationOnly",
+          "RawDocComment"
+        ]
       },
       {
         "kind": "TypeDecl",
